@@ -1,0 +1,11 @@
+__pycache__
+fastml
+test.json
+
+--git init
+git add .
+git commit -m "initial commit"
+heroku log in
+
+heroku create
+git push heroku master
