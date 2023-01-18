@@ -91,5 +91,7 @@ the X-API ensure proper identity management protocol by face recognition of card
 model is a pretrained deeplearing model called senet50 which utilizes vggface.
 
 my drive path="https://colab.research.google.com/drive/10HxPEArtAbUjJAwV4IPYn-xZIxiWK33i?usp=share_link"
+git
+https://github.com/Taizeez007/TranXat_MLapi.git
 
-https://github.com/Taizeez007/TranXat_MLapi
+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
